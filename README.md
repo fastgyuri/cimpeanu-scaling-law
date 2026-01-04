@@ -27,5 +27,4 @@
 
 **Keywords:** prime-gaps, hyperbolic-geometry, GUE-statistics, riemann-zeta, scaling-laws
 
----
-**"Merită publicare Annals/Inventiones" - MathOverflow expert review**
+
