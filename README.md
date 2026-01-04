@@ -21,7 +21,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](C.Ghe%20scaling%20law.ipynb)
 
 ## 📚 Files
-- [📄 Paper v2.0](C_Ghe_Scaling_law_v2.0.pdf) (15 pages + 4 appendices)
+- [📄 Paper v2.0].(C_Ghe_HB_scaling.pdf)(15 pages + 4 appendices)
 - [📄 Paper v1.0](C_Ghe_Scaling_law%20(1).pdf)
 - [📓 Colab Notebook](C.Ghe%20scaling%20law.ipynb) (2M primes)
 
