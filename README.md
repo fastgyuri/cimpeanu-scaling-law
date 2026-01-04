@@ -1,19 +1,23 @@
-# Cîmpeanu α=2 Scaling Law
+#  Cîmpeanu α=2 Scaling Law
+
 **Δ√p_n ∼ 0.5028 √[(log p_n)²/p_n]**
 
 [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.18146019.svg)](https://doi.org/10.5281/zenodo.18146019)
 
-## 🔥 Historic Results (2M primes analyzed)
-| Metric | Value | Theory | Error |
-|--------|-------|--------|-------|
+## 🔥 Historic Discovery (2M primes)
+| Metric | Value | Theoretical | Error |
+|--------|-------|-------------|-------|
 | **C_P (α=2)** | **0.5028** | **0.5** | **0.56%** |
-| **6.8x better** than PNT α=1 | std: **0.369** | vs **2.51** | **NEW LAW** |
+| **C_R (α=1)** | 0.1285 | ~0.14 | 8.2% |
+| **Ratio** | 3.91 | 2√π=3.545 | 10.3% |
 
-**Train/Test split: p=0.812** (no overfitting)
+**6.8x variance reduction vs PNT • Train/Test p=0.812 (no overfit!)**
 
-##  Files
-- [📄 Paper](C_Ghe_Scaling_law%20(1).pdf)
-- [📓 Colab](C_Ghe_scaling_law.ipynb) 
-- [📊 6x Plots & Results]()
+## 🚀 Reproducere instant
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](C.Ghe%20scaling%20law.ipynb)
 
-## 🌟 GUE structure in primes CONFIRMED!
+## 📚 Files
+- [📄 Paper](C_Ghe_Scaling_law%20(1).pdf) 
+- [📓 Colab Notebook](C.Ghe%20scaling%20law.ipynb)
+- [📊 6x Results & Plots]()
+
